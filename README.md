@@ -10,6 +10,8 @@ Eu fiz para uso próprio, mas caso queira testar você pode.
 
 Requisitos: Windows e Python.
 
+Você pode baixar <a href="https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare">Python 3.12 na Microsoft Store</a>, caso ainda não tenha.
+
 Atenção: O programa provavelmente vai ser bloqueado pelo antivírus, eu recomendaria você mesmo compilar o código
 porque algumas IDEs falam para o antivírus que o diretório dos programas compilados por elas são seguros e mais que isso,
 você tem certeza que o programa é seguro já que você consegue vê-lo, aí se o antivírus bloquear o programa é só desbloquear.
@@ -22,6 +24,8 @@ Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir 
 
 Caso não tenha feito ainda, defina o Arc como navegador padrão.
 Clique para abrir o PDF que ele será aberto com o Arc.
+
+Caso seja a primeira vez abrindo o Python é possível que ele peça permissões de rede.
 
 <h2>Motivo:</h2>
 
