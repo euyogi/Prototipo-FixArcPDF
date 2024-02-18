@@ -20,7 +20,7 @@ Caso você não queira compilar o código si mesmo, você pode baixar o executá
 
 Tente abrir o .exe, se ele for bloqueado o desbloqueie (Ele vai abrir e fechar instantaneamente se não for bloqueado).
 
-Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe, se  e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez)
+Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe, se  e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez ou se você mover o programa para outra pasta)
 
 Caso não tenha feito ainda, defina o Arc como navegador padrão.
 
