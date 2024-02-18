@@ -1,0 +1,44 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resources.h"
+#include <winres.h>
+/////////////////////////////////////////////////////////////////////////////
+// Portugu�s (Brasil) resources
+
+LANGUAGE LANG_PORTUGUESE, SUBLANG_PORTUGUESE_BRAZILIAN
+#pragma code_page(1252)
+
+IDI_ICON                ICON                    "icon.ico"
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041604b0"
+        BEGIN
+            VALUE "CompanyName", "YogiApps"
+            VALUE "FileDescription", "Opens a file through a localserver in the default http app opener."
+            VALUE "FileVersion", "1.0.0.0"
+            VALUE "InternalName", "FixArcPDF.exe"
+            VALUE "LegalCopyright", "Copyright (C) 2023"
+            VALUE "OriginalFilename", "FixArcPDF.exe"
+            VALUE "ProductName", "FixArcPDF"
+            VALUE "ProductVersion", "1.0.0.0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x416, 1200
+    END
+END
