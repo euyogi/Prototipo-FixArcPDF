@@ -9,13 +9,16 @@ Este programa abre PDFs locais diretamente no navegador Arc para windows.
 Eu fiz para uso próprio, mas caso queira testar você pode.
 
 Requisitos: Windows e Python.
+
 Atenção: O programa provavelmente vai ser bloqueado pelo antivírus, eu recomendaria você mesmo compilar o código
 porque algumas IDEs falam para o antivírus que o diretório dos programas compilados por elas são seguros e mais que isso,
 você tem certeza que o programa é seguro já que você consegue vê-lo, aí se o antivírus bloquear o programa é só desbloquear.
 
-Caso você não queira compilar o código si mesmo, você pode baixar o executável <a href="https://github.com/euyogi/Prototipo-FixArcPDF/releases/download/release/FixArcPDF.exe">aqui</a>. Se ele for bloqueado, basta desbloquear.
+Caso você não queira compilar o código si mesmo, você pode baixar o executável <a href="https://github.com/euyogi/Prototipo-FixArcPDF/releases/download/release/FixArcPDF.exe">aqui</a>.
 
-Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez)
+Tente abrir o .exe, se ele for bloqueado o desbloqueie (Ele vai abrir e fechar instantaneamente se não for bloqueado).
+
+Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe, se  e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez)
 
 Caso não tenha feito ainda, defina o Arc como navegador padrão.
 Clique para abrir o PDF que ele será aberto com o Arc.
