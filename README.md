@@ -6,9 +6,16 @@ Este programa abre PDFs locais diretamente no navegador Arc para windows.
 
 <h2>Para testar:</h2>
 
-Requisitos: Windows e Python.
+Eu fiz para uso próprio, mas caso queira testar você pode.
 
-Baixe o executável aqui. Clique em um PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez)
+Requisitos: Windows e Python.
+Atenção: O programa provavelmente vai ser bloqueado pelo antivirus, eu recomendaria você mesmo compilar o código
+porque algumas IDEs falam para o antivirus que o diretório dos programas compilados por elas são seguros e mais que isso,
+você tem certeza que o programa é seguro já que você consegue vê-lo, aí se o antivirus bloquear o programa é só desbloquear.
+
+Caso você não queira compilar o código si mesmo, você pode baixar o executável aqui. Se ele for bloqueado, basta desbloquear.
+
+Clique em um PDF com o botão direito, escolha a opção Abrir com... > Escolher outro aplicativo > Escolha um aplicativo no seu PC. Procure e selecione o FixArcPDF.exe e depois selecione Sempre. (Esses passos só precisam ser feitos uma vez)
 
 Clique para abrir o PDF.
 
