@@ -8,11 +8,12 @@ int main(int argc, char* argv[]) {
     if (argc != 2)
         return 1;
 
-    system("start /min /b pythonw -m http.server 4242 -d /"); // Inicia um servidor local.
+    system("start /min /b python -m http.server -b 127.0.0.1 -d /"); // Inicia um servidor local.
 
-    std::string file = argv[1];
-    std::string command = "start /min /b \"\" \"http://localhost:4242/" + file + "\"";
+    std::string file = argv[1]; // Diretório do arquivo.
+    std::string command = "start /min /b \"\" \"http://127.0.0.1:8000/" + file + "\"";
 
     system(command.c_str()); // Abre o arquivo pelo servidor.
+
     system("taskkill /IM Sandbox.exe"); // Encerra o programa junto com o servidor.
 }
