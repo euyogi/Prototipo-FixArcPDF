@@ -8,7 +8,7 @@ Este programa abre PDFs locais diretamente no navegador Arc para windows.
 
 Eu fiz para uso próprio, mas caso queira testar você pode.
 
-Requisitos: Windows e Python.
+Requisitos: Windows e Python 3.12.
 
 Você pode baixar <a href="https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare">Python 3.12 na Microsoft Store</a>, caso ainda não tenha.
 
