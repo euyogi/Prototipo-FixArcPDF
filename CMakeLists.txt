@@ -1,8 +1,10 @@
 cmake_minimum_required(VERSION 3.28)
-project(Sandbox)
+project(FixArcPDF)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(Sandbox main.cpp)
+add_executable(FixArcPDF main.cpp
+        resources.h
+        resources.rc)
 
-target_link_options(Sandbox PRIVATE -static)
+target_link_options(FixArcPDF PRIVATE -static)
