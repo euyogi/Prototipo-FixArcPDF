@@ -15,5 +15,5 @@ int main(int argc, char* argv[]) {
 
     system(command.c_str()); // Abre o arquivo pelo servidor.
 
-    system("taskkill /IM Sandbox.exe"); // Encerra o programa junto com o servidor.
+    system("taskkill /IM python3.12.exe"); // Encerra o servidor.
 }
