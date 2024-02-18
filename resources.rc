@@ -28,7 +28,7 @@ BEGIN
         BLOCK "041604b0"
         BEGIN
             VALUE "CompanyName", "YogiApps"
-            VALUE "FileDescription", "Opens a file through a localserver in the default http app opener."
+            VALUE "FileDescription", "FixArcPDF"
             VALUE "FileVersion", "1.0.0.0"
             VALUE "InternalName", "FixArcPDF.exe"
             VALUE "LegalCopyright", "Copyright (C) 2023"
