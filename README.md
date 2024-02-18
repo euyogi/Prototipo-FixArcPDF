@@ -8,7 +8,7 @@ Este programa abre PDFs locais diretamente no navegador Arc para windows.
 
 Eu fiz para uso próprio, mas caso queira testar você pode.
 
-Requisitos: Windows e Python.
+Requisitos: Python.
 
 Você pode baixar <a href="https://www.microsoft.com/store/productId/9NCVDN91XZQP?ocid=pdpshare">Python 3.12 na Microsoft Store</a>, caso ainda não tenha.
 
@@ -29,7 +29,9 @@ Caso seja a primeira vez abrindo o Python é possível que ele peça permissões
 
 <h2>Funcionando:</h2>
 
-https://github.com/euyogi/Prototipo-FixArcPDF/assets/46427886/b6fb7d82-3945-4daf-9e7e-64ff14902d44
+<p align="center">
+  <img alt="Gif mostrando o programa funcionando width="75%" src="https://github.com/euyogi/Prototipo-FixArcPDF/assets/46427886/a67eaab3-248b-4c9a-b181-ae705319da44">
+</p>
 
 <h2>Motivo:</h2>
 
