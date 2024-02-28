@@ -25,6 +25,7 @@ Em seguida clique em qualquer PDF com o botão direito, escolha a opção Abrir 
 Caso não tenha feito ainda, defina o Arc como navegador padrão.
 
 Clique para abrir o PDF que ele será aberto com o Arc.
+(Recomendado que o nome do PDF não tenha caracteres especiais e/ou acentos)
 
 Caso seja a primeira vez abrindo o Python é possível que ele peça permissões de rede.
 
